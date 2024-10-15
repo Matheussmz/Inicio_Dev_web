@@ -1,0 +1,16 @@
+body{
+    background-image: url(fundo.png);
+}
+
+img{
+    height: 320px;
+    width: 750px;
+}
+nav{
+    border: 2px solid black;
+}
+
+nav p{
+    text-align: center;
+    justify-items: center;
+}
