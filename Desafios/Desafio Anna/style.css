@@ -4,13 +4,26 @@ body{
 
 img{
     height: 320px;
-    width: 750px;
+    width: 730px;
 }
-nav{
-    border: 2px solid black;
+#Menu{
+    background-color: rgba(215, 195, 169, 0.658);
+    text-align: center;
+    padding: 10px;
 }
 
-nav p{
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+
+#Conteudo{
+    background-color: azure;
+    padding: 15px;
+}
+
+footer{
     text-align: center;
-    justify-items: center;
+    
 }
